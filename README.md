@@ -1,1 +1,1 @@
-# RoamReady - A traveling itenerary assistant for the disabled.
+# RoamReady - A traveling itinerary assistant for the disabled.
